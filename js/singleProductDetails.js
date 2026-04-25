@@ -110,7 +110,7 @@ function showSingleProductDetails(product) {
 
                 <div class="seller-footer">
                     <p>Ad ID: ${id}</p>
-                    <button class="seller-report-btn" type="button">Report this ad</button>
+                    <button class="seller-report-btn" type="button">Rating : ${rating}</button>
                 </div>
             </div>
         </div>
